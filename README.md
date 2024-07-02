@@ -1,0 +1,1 @@
+# Principal-Component-Analysis-of-Educational-Institutions
