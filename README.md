@@ -147,21 +147,28 @@ From the below image, visually we can observe that there is steep drop in varian
 
 The eigenvectors (Principal components) determine the directions of a new feature space. A Heatmap (shown below) is generated to observe the correlation between various feature and the Principal component itself.
 
-![image](https://github.com/nit-stack/Principal-Component-Analysis-of-Educational-Institutions/assets/174468592/f14aa05b-1f79-44d0-bd17-9b1b75275867)
+![image](https://github.com/nit-stack/Principal-Component-Analysis-of-Educational-Institutions/assets/174468592/f73713c4-bdda-413b-b0cb-7b0324d2d178)
 
 # 6. Business Implications of PCA
 
 Interpretations:
 
 PC0: Captures the majority of the variance in faculties with PhDs and instructional expenditure per student.
+
 PC2: Significant for estimated book costs and personal spending.
+
 PC3: Majorly captures room and board costs.
+
 PC8: Focuses on part-time undergraduate numbers.
+
 PC11: Relates to instructional expenditure.
+
 PC13: Pertains to full-time undergraduates.
 
 Value of PCA:
 
 Reduces dataset dimensionality while preserving critical information.
+
 Facilitates easier visualization and understanding of data trends.
+
 Enhances the interpretability of the dataset, allowing for better-informed business decisions.
