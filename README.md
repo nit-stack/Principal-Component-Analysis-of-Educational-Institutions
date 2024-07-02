@@ -133,7 +133,9 @@ Eigen Vectors and Eigen Values
 
 First Principal Component
 
-Equation of 𝐏𝐂1: -0.2487656Apps+0.33159823Accept+0.0630921Enroll-0.28131053Top10perc+0.00574141Top25perc+ 0.01623744F.Undergrad+0.04248635P.Undergrad+0.1030904Outstate+0.09022708Room.Board-0.0525098Books+0.3589704Personal0.4591395PhD+0.04304621Terminal-0.13340581S.F.Ratio+0.0806328 perc.alumni-0.59583097 * Expend + 0.02407091Grad.Rate
+Equation of 𝐏𝐂1: 
+
+-0.2487656Apps+0.33159823Accept+0.0630921Enroll-0.28131053Top10perc+0.00574141Top25perc+ 0.01623744F.Undergrad+0.04248635P.Undergrad+0.1030904Outstate+0.09022708Room.Board-0.0525098Books+0.3589704Personal0.4591395PhD+0.04304621Terminal-0.13340581S.F.Ratio+0.0806328 perc.alumni-0.59583097 * Expend + 0.02407091Grad.Rate
 
 Graphical form of the Linear Equation of PC1
 
