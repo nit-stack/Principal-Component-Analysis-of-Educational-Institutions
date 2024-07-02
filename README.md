@@ -85,8 +85,7 @@ Standard scaling was chosen to ensure features are on a similar scale, aiding in
 Ensures the data approximates a normal distribution, which benefits many statistical methods and machine learning algorithms.
 
 # 3. Covariance vs. Correlation Matrix
-C
-ovariance: Indicates the direction of the linear relationship between variables.
+Covariance: Indicates the direction of the linear relationship between variables.
 
 Correlation: Measures both the strength and direction of the linear relationship.
 
